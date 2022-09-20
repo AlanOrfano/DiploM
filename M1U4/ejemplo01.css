@@ -1,0 +1,36 @@
+h2{
+    color: red;/*color de la fuente*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: green;
+    background-color: yellow;/*color de fondo*/
+    text-align: center;
+}
+p{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+.destacado{
+    color: orange;
+    font-size: 22px;
+}
+#caja{
+    width: 300px;
+    height: 300px;
+    background-color: lightcoral;
+    /*text-align: center;*/
+    /*margin-left: 50px;*/
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+#caja2{
+    width: 300px;
+    height: 300px;
+    background-color: lightcyan;
+    padding: 20px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
