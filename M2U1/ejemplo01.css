@@ -1,0 +1,36 @@
+/*font-family: 'Dancing Script', cursive;
+font-family: 'Roboto', sans-serif;
+*/
+.caja {
+    width: 300px;
+    height: 300px;
+    background: rgb(192, 190, 219);
+    background: linear-gradient(90deg, rgba(192, 190, 219, 1) 2%, rgba(240, 210, 6, 1) 50%, rgba(191, 191, 185, 1) 96%);
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+}
+
+.caja2 {
+    width: 300px;
+    height: 300px;
+    background: #16b1ed;
+    border: 5px solid #eb4118;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 80px 80px 0px 80px;
+    box-shadow: 20px 40px 15px black;
+    margin-bottom: 50px;
+}
+.texto{
+    background-color: orange;
+    column-count: 4;
+    column-gap: 50px;
+    column-rule: 2px solid black;
+    font-family: 'Roboto', sans-serif;
+}
+.texto h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}

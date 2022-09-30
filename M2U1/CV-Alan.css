@@ -1,0 +1,83 @@
+/*font-family: 'Anton', sans-serif;
+font-family: 'Passions Conflict', cursive;
+*/
+h1 {
+    color: black;
+    text-align: center;
+    background-color: grey;
+    font-family: 'Anton', sans-serif;
+    border-radius: 200px 200px 200px 200px;
+}
+
+img {
+    border: 5px solid black;
+    box-shadow: 30px 30px 20px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 200px 200px 200px 200px;
+    margin-bottom: 30px;
+
+}
+
+h2 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 5px 5px 8px rgba(0,0,0,0.6);
+}
+
+h3 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 5px 5px 8px rgba(0,0,0,0.6);
+}
+
+h4 {
+    color: black;
+    font-weight: 400;
+    font-family: 'Passions Conflict', cursive;
+    font-size: 35px;
+}
+
+ul {
+    color: green;
+
+}
+
+ol {
+    color: green;
+
+}
+
+h5 {
+    color: blueviolet;
+    font-family: 'Anton', sans-serif;
+    font-size: 35px;
+}
+
+p {
+    color: grey;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.cambio {
+    color: black;
+    font-size: 15px;
+}
+
+#Contenido {
+    width: 300px;
+    height: 300px;
+    background: rgb(192, 190, 219);
+    background: linear-gradient(90deg, rgba(192, 190, 219, 1) 2%, rgba(244, 221, 67, 1) 50%, rgba(191, 191, 185, 1) 96%);
+    padding: 20px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    box-shadow: 30px 30px 20px 0px rgba(0, 0, 0, 0.75);
+
+}
+.perfil1  p{
+    column-count: 2;
+    column-gap: 50px;
+    column-rule: 2px solid black;
+
+}
