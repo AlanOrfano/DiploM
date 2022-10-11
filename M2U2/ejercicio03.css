@@ -1,0 +1,43 @@
+.contenedor {
+    background-color: white;
+    border: 2px solid black;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+}
+
+.item1 {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.item2 {
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.item3 {
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
